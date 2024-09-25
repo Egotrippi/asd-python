@@ -5,6 +5,7 @@
 # OK
 # Hellou KK
 # Hello GitHub -JP
+# Egotrippi kuittaa - RK
 
 import time
 import random
